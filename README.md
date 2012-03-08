@@ -51,8 +51,11 @@ Place the `n.sh` file somewhere accessible and *source* it in your
 # Contributions
 
 Even as basic as `n` is currently today, it has proven to be very useful to me.
-Any suggestions/ideas/feedback welcome. Please open an issue on bitbucket or
-send a pull request, if the change is simple enough.
+Any suggestions/ideas/feedback welcome. Please open an issue on bitbucket (or
+github) or send a pull request, if the change is simple enough.
+
+Code is hosted on both [bitbucket](https://bitbucket.org/sharat87/n-nake) and
+[github](https://github.com/sharat87/n-nake).
 
 # License
 
