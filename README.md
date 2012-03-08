@@ -33,7 +33,10 @@ and,
     $ n deploy
     uploading to my-server...done
 
-Also, task auto-completion is available for bash and zsh.
+Other *features*:
+
+- All arguments after the task name are simply passed on to the task function.
+- Task auto-completion is available for bash and zsh.
 
 # Installation
 
