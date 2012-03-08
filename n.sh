@@ -3,8 +3,11 @@
 n () {
 
     # Load the given task from first argument, or the default-task
-    task="${1:-default-task}"
-    shift
+    task="default-task"
+    if [[ ! -z "$1" ]]; then
+        task=$1
+        shift
+    fi
 
     # Find the project directory.
     project_dir="$PWD"
